@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/drtrigon/!svn/ver/571/externals/opencv
+END
+posit_python.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/drtrigon/!svn/ver/571/externals/opencv/posit_python.cpp
+END
+camera_virtual_default
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/drtrigon/!svn/ver/545/externals/opencv/camera_virtual_default
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/drtrigon/!svn/ver/570/externals/opencv/__init__.py
+END
+facetest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/drtrigon/!svn/ver/545/externals/opencv/facetest.pl
+END
+bagofwords_classification.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/drtrigon/!svn/ver/545/externals/opencv/bagofwords_classification.cpp
+END
+bagofwords_classification_python.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/drtrigon/!svn/ver/545/externals/opencv/bagofwords_classification_python.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/drtrigon/!svn/ver/564/externals/opencv/makefile
+END

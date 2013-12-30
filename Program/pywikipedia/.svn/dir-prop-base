@@ -1,0 +1,23 @@
+K 13
+svn:externals
+V 80
+i18n http://svn.wikimedia.org/svnroot/pywikipedia/branches/rewrite/scripts/i18n
+
+K 10
+svn:ignore
+V 144
+*.pyc
+*.pyo
+*.log
+*.dump
+*.dump.bz2
+*.txt
+*.bak
+user-config.py
+autonomous_problems.dat
+sax_parse_bug.dat
+login-data
+password-file
+user-fixes.py
+
+END
