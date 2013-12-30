@@ -1,0 +1,3 @@
+*Place the file inside pywikipedia folder.
+*Login using bot (python login.py)
+*Give "python Proofreading_Contest_Count.py <category>" to generate output to count.csv

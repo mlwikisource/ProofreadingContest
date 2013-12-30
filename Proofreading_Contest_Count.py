@@ -13,7 +13,7 @@ category = str(sys.argv[1]).decode("UTF-8")
 wikipedia.setLogfileStatus(True)
 wikiSite = wikipedia.Site(code=siteLangCode, fam=siteFamily)
 cat = catlib.Category(wikiSite,"Category:"+category)
-fp = open("a.csv","w")
+fp = open("count.csv","w")
 list = cat.articlesList(recurse=False)
 out = {}
 for i in list:
