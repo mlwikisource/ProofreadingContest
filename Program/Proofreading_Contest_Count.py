@@ -32,7 +32,7 @@ for i in list:
 wikipedia.stopme()
 print stat
 out='<link href="css/bootstrap.css" rel="stylesheet" /><body style="margin-left:10%;margin-right:10%;">    <h1 style="text-align:center;">        <img src="images/Wikisource-logo.png" width="100px" height="100px" /><br /><big>വിക്കിഗ്രന്ഥശാല    </big>   <br /> മത്സരത്തിന്റെ കണക്കുകൾ  </h1> <div class="progress  progress-striped active">  <div class="progress-bar progress-bar-danger"  role="progressbar" aria-valuenow="'+str(noofarticles)+'" aria-valuemin="0" aria-valuemax="100" style="width: '+str(per)+'%">    <span class="sr-only">45% Complete</span>  </div></div>'
-out=out+'<table class="table table-bordered">'
+out=out+'<table class="table table-bordered"><tr><th>പേര്</th><th>അക്ഷരങ്ങളുടെ എണ്ണം</th></tr>'
 for key,value in sorted(stat.iteritems(), key=lambda (v,k): (k,v),reverse=True):
     out=out+"<tr><td><a href='http://ml.wikisource.org/wiki/User:"+key.encode("UTF-8") + "'>"+key.encode("UTF-8")+"</a></td><td><a href='http://ml.wikisource.org/wiki/Special:Contributions/" + key.encode("UTF-8")+"'>"+ str(value) + "</a></td></tr>"
 out=out+"</table>"
@@ -45,7 +45,7 @@ fp.close()
 fp = open("/var/www/clients/client23/web27/web/ProofreadingContest/index2.html","w")
 stat=pagecount
 out='<link href="css/bootstrap.css" rel="stylesheet" /><body style="margin-left:10%;margin-right:10%;">    <h1 style="text-align:center;">        <img src="images/Wikisource-logo.png" width="100px" height="100px" /><br /><big>വിക്കിഗ്രന്ഥശാല    </big>   <br /> മത്സരത്തിന്റെ കണക്കുകൾ  </h1> <div class="progress  progress-striped active">  <div class="progress-bar progress-bar-danger"  role="progressbar" aria-valuenow="'+str(noofarticles)+'" aria-valuemin="0" aria-valuemax="100" style="width: '+str(per)+'%">    <span class="sr-only">45% Complete</span>  </div></div>'
-out=out+'<table class="table table-bordered">'
+out=out+'<table class="table table-bordered"><tr><th>പേര്</th><th>താളുകളുടെ എണ്ണം</th></tr>'
 for key,value in sorted(stat.iteritems(), key=lambda (v,k): (k,v),reverse=True):
     out=out+"<tr><td><a href='http://ml.wikisource.org/wiki/User:"+key.encode("UTF-8") + "'>"+key.encode("UTF-8")+"</a></td><td><a href='http://ml.wikisource.org/wiki/Special:Contributions/" + key.encode("UTF-8")+"'>"+ str(value) + "</a></td></tr>"
 out=out+"</table>"
