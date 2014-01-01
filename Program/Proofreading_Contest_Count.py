@@ -9,7 +9,7 @@ import catlib
 import sys
 siteFamily	= 'wikisource'
 siteLangCode	= 'ml'
-category = str(sys.argv[1]).decode("UTF-8")
+category = "WSDCPages"
 wikipedia.setLogfileStatus(True)
 wikiSite = wikipedia.Site(code=siteLangCode, fam=siteFamily)
 cat = catlib.Category(wikiSite,"Category:"+category)
@@ -20,6 +20,7 @@ stat={}
 for i in list:
     print i.title()
     creator = i.getCreator()
+    noofchar=len(i.get())
     if creator[0] in stat:
         stat[creator[0]] = stat[creator[0]]+noofchar
     else:

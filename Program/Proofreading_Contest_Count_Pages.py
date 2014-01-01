@@ -9,7 +9,7 @@ import catlib
 import sys
 siteFamily	= 'wikisource'
 siteLangCode	= 'ml'
-category = str(sys.argv[1]).decode("UTF-8")
+category = "WSDCPages"
 wikipedia.setLogfileStatus(True)
 wikiSite = wikipedia.Site(code=siteLangCode, fam=siteFamily)
 cat = catlib.Category(wikiSite,"Category:"+category)
