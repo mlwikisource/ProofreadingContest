@@ -33,10 +33,7 @@ counter=1
 for i in value[1]:
    creator = i[u'User'][u'fulltitle'][11:]
    page=i[u'Page'][u'fulltitle']
-   print i.keys()
-   raw_input()
-   noofchar=int(i[u'Page'][u'Page Length'])
-   raw_input()
+   noofchar=int(i[u'Page length'])
    if u'വർഗ്ഗം' in page:
       print "Boom"
       continue
@@ -59,6 +56,6 @@ for key,value in sorted(stat.iteritems(), key=lambda (v,k): (k,v),reverse=True):
 out=out+"<tr><th></th><th> ആകെ  </th><th>"+str(sumchar)+"</th><th>"+str(sumpages)+"</th></tr>"
 out=out+"</table>"
 out=out+'<script src="https://code.jquery.com/jquery.js">  </script>  <script src="js/bootstrap.min.js">  </script><div class="footer-fixed-bottom" style="text-align:center" >Designed by Balasankar C for <u><a href="http://ml.wikisource.org">Malayalam Wikisource Community</a></u><br /> Technical Support - <u><a href="http://smc.org.in">Swathanthra Malayalam Computing</a></u></div> </body>'
-fp = open("/home/balasankarc/git/ProofreadingContest/index2.html","w")
+fp = open("/var/www/clients/client23/web27/web/ProofreadingContest/index.html","w")
 fp.write(out)
 fp.close()

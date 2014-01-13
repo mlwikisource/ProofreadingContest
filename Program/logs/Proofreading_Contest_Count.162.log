@@ -1,0 +1,30 @@
+2014-01-13 03:00:05          catlib.py,  252 in     _parseCategory: INFO     Getting [[വർഗ്ഗം:DC2014Pages]] list...
+2014-01-13 03:00:05        throttle.py,  257 in           __call__: INFO     Sleeping for 31.4 seconds, 2014-01-13 03:00:05
+2014-01-13 03:00:41          catlib.py,  240 in     _parseCategory: INFO     Getting [[വർഗ്ഗം:DC2014Pages]] list from cmcontinue=page|44524156494441205652495448414e47414c554d20415641595544452044484153484120504152494e414d414e47414c554d20313933302e5044462f313731|26801...
+2014-01-13 03:00:44        throttle.py,  257 in           __call__: INFO     Sleeping for 25.0 seconds, 2014-01-13 03:00:44
+2014-01-13 03:01:23          catlib.py,  240 in     _parseCategory: INFO     Getting [[വർഗ്ഗം:DC2014Pages]] list from cmcontinue=page|4d414c4159414c414d204e45572054455354414d454e5420434f4d504c4554452047554e4445525420313836382e5044462f3434|24626...
+2014-01-13 03:01:23        throttle.py,  257 in           __call__: INFO     Sleeping for 21.6 seconds, 2014-01-13 03:01:23
+2014-01-13 03:01:46          catlib.py,  240 in     _parseCategory: INFO     Getting [[വർഗ്ഗം:DC2014Pages]] list from cmcontinue=page|5241532030322030322d3135304450492e444a56552f3638|23633...
+2014-01-13 03:01:46        throttle.py,  257 in           __call__: INFO     Sleeping for 30.9 seconds, 2014-01-13 03:01:46
+2014-01-13 03:02:18          catlib.py,  240 in     _parseCategory: INFO     Getting [[വർഗ്ഗം:DC2014Pages]] list from cmcontinue=page|5352454520414d4152554b41205348415448414b414d202d20414d4152554b414b41564920313839332e5044462f3738|25445...
+2014-01-13 03:02:18        throttle.py,  257 in           __call__: INFO     Sleeping for 30.6 seconds, 2014-01-13 03:02:18
+2014-01-13 03:02:51          catlib.py,  240 in     _parseCategory: INFO     Getting [[വർഗ്ഗം:DC2014Pages]] list from cmcontinue=subcat|4443323031345041474553202d20425920555345523a564b4e495a4152|24450...
+2014-01-13 03:02:51        throttle.py,  257 in           __call__: INFO     Sleeping for 30.3 seconds, 2014-01-13 03:02:51
+2014-01-13 03:03:22        throttle.py,  257 in           __call__: INFO     Sleeping for 30.9 seconds, 2014-01-13 03:03:22
+2014-01-13 03:03:54        throttle.py,  257 in           __call__: INFO     Sleeping for 30.7 seconds, 2014-01-13 03:03:54
+2014-01-13 03:04:26        throttle.py,  257 in           __call__: INFO     Sleeping for 31.2 seconds, 2014-01-13 03:04:26
+2014-01-13 03:04:58        throttle.py,  257 in           __call__: INFO     Sleeping for 31.1 seconds, 2014-01-13 03:04:58
+2014-01-13 03:05:30        throttle.py,  257 in           __call__: INFO     Sleeping for 31.1 seconds, 2014-01-13 03:05:30
+2014-01-13 03:06:02        throttle.py,  257 in           __call__: INFO     Sleeping for 31.1 seconds, 2014-01-13 03:06:02
+2014-01-13 03:06:34        throttle.py,  257 in           __call__: INFO     Sleeping for 30.2 seconds, 2014-01-13 03:06:34
+2014-01-13 03:07:05        throttle.py,  257 in           __call__: INFO     Sleeping for 30.2 seconds, 2014-01-13 03:07:05
+2014-01-13 03:07:36        throttle.py,  257 in           __call__: INFO     Sleeping for 30.1 seconds, 2014-01-13 03:07:36
+2014-01-13 03:08:07        throttle.py,  257 in           __call__: INFO     Sleeping for 30.1 seconds, 2014-01-13 03:08:07
+2014-01-13 03:08:38        throttle.py,  257 in           __call__: INFO     Sleeping for 30.1 seconds, 2014-01-13 03:08:38
+2014-01-13 03:09:09        throttle.py,  257 in           __call__: INFO     Sleeping for 30.1 seconds, 2014-01-13 03:09:09
+2014-01-13 03:09:40        throttle.py,  257 in           __call__: INFO     Sleeping for 30.1 seconds, 2014-01-13 03:09:40
+2014-01-13 03:10:11        throttle.py,  257 in           __call__: INFO     Sleeping for 30.1 seconds, 2014-01-13 03:10:11
+2014-01-13 03:10:42        throttle.py,  257 in           __call__: INFO     Sleeping for 30.1 seconds, 2014-01-13 03:10:42
+2014-01-13 03:11:13        throttle.py,  257 in           __call__: INFO     Sleeping for 30.1 seconds, 2014-01-13 03:11:13
+2014-01-13 03:11:44        throttle.py,  257 in           __call__: INFO     Sleeping for 30.2 seconds, 2014-01-13 03:11:44
+2014-01-13 03:12:19        throttle.py,  257 in           __call__: INFO     Sleeping for 27.1 seconds, 2014-01-13 03:12:19

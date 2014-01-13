@@ -1,0 +1,8 @@
+2014-01-13 18:14:59        throttle.py,  257 in           __call__: INFO     Sleeping for 8.2 seconds, 2014-01-13 18:14:59
+2014-01-13 18:15:08        throttle.py,  257 in           __call__: INFO     Sleeping for 13.1 seconds, 2014-01-13 18:15:08
+2014-01-13 18:15:22        throttle.py,  257 in           __call__: INFO     Sleeping for 13.5 seconds, 2014-01-13 18:15:22
+2014-01-13 18:16:10        throttle.py,  257 in           __call__: INFO     Sleeping for 7.9 seconds, 2014-01-13 18:16:10
+2014-01-13 18:16:19        throttle.py,  257 in           __call__: INFO     Sleeping for 13.1 seconds, 2014-01-13 18:16:19
+2014-01-13 18:16:33        throttle.py,  257 in           __call__: INFO     Sleeping for 12.5 seconds, 2014-01-13 18:16:33
+2014-01-13 18:17:21        throttle.py,  257 in           __call__: INFO     Sleeping for 7.9 seconds, 2014-01-13 18:17:21
+2014-01-13 18:17:30        throttle.py,  257 in           __call__: INFO     Sleeping for 12.6 seconds, 2014-01-13 18:17:30
